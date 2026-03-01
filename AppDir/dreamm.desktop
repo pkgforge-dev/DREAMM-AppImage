@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=DREAMM
+Icon=dreamm
+Exec=dreamm
+StartupWMClass=dreamm
+Categories=Game;Emulator;
+Terminal=false
+StartupNotify=false
