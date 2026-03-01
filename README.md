@@ -7,7 +7,7 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/DREAMM-AppImage)](https://github.com/pkgforge-dev/DREAMM-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://github.com/pkgforge-dev.png" width="128" />
+  <img src="https://github.com/Link4Electronics/DREAMM-AppImage/blob/main/AppDir/dreamm.png" width="128" />
 </p>
 
 
