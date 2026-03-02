@@ -28,7 +28,7 @@ case "$ARCH" in # they use AMD64 and ARM64 for the deb links
 	x86_64)  deb_arch=x64;;
 	aarch64) deb_arch=arm64;;
 esac
-VERSION=4.0  > ~/version
+echo VERSION=4.0  > ~/version
 wget https://dreamm.aarongiles.com/releases/dreamm-$VERSION-linux-$deb_arch.tgz
 bsdtar -xvf dreamm-$VERSION-linux-$deb_arch.tgz
 
