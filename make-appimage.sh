@@ -10,7 +10,6 @@ export UPINFO="gh-releases-zsync|${GITHUB_REPOSITORY%/*}|${GITHUB_REPOSITORY#*/}
 
 # Deploy dependencies
 quick-sharun ./AppDir/bin/dreamm \
-/usr/lib/alsa-lib/libasound_module_pcm_a52.so \
 /usr/lib/alsa-lib/libasound_module_pcm_alsa_dsp.so \
 /usr/lib/alsa-lib/libasound_module_pcm_jack.so \
 /usr/lib/alsa-lib/libasound_module_pcm_oss.so \
