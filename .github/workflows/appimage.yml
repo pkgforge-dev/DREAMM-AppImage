@@ -28,13 +28,6 @@ jobs:
         uses: pkgforge-dev/anylinux-setup-action@8872fabe63f9a00b35e25b2f46da62a05afc9a7d # v1
       - name: Install Dependencies
         run: /bin/sh ./get-dependencies.sh
-      - name: Mock ALSA Sequencer
-        run: |
-          # Use sudo as the container might run as a non-root user or restricted root
-          sudo mkdir -p /dev/snd
-          # Create the character device node (116 = ALSA, 1 = Sequencer)
-          sudo mknod /dev/snd/seq c 116 1 || true
-          sudo chmod 666 /dev/snd/seq || true
       - name: Make AppImage
         run: /bin/sh ./make-appimage.sh
       - name: Upload artifact
