@@ -2,18 +2,18 @@
 
 # DREAMM-AppImage 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/Link4Electronics/DREAMM-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/Link4Electronics/DREAMM-AppImage/releases/latest)
-[![CI Build Status](https://github.com/Link4Electronics/DREAMM-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/Link4Electronics/DREAMM-AppImage/releases/latest)
-[![Latest Stable Release](https://img.shields.io/github/v/release/Link4Electronics/DREAMM-AppImage)](https://github.com/Link4Electronics/DREAMM-AppImage/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/DREAMM-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/DREAMM-AppImage/releases/latest)
+[![CI Build Status](https://github.com/pkgforge-dev/DREAMM-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/DREAMM-AppImage/releases/latest)
+[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/DREAMM-AppImage)](https://github.com/pkgforge-dev/DREAMM-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://github.com/Link4Electronics/DREAMM-AppImage/blob/main/AppDir/dreamm.png" width="128" />
+  <img src="https://github.com/pkgforge-dev/DREAMM-AppImage/blob/main/AppDir/dreamm.png" width="128" />
 </p>
 
 
 | Latest Stable Release | Upstream URL |
 | :---: | :---: |
-| [Click here](https://github.com/Link4Electronics/DREAMM-AppImage/releases/latest) | [Click here](https://dreamm.aarongiles.com/) |
+| [Click here](https://github.com/pkgforge-dev/DREAMM-AppImage/releases/latest) | [Click here](https://dreamm.aarongiles.com/) |
 
 </div>
 
